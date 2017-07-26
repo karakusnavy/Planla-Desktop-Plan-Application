@@ -36,7 +36,7 @@ namespace Planla
         BindingSource bs = new BindingSource();
         MySqlCommand kmt;
         //--------------------------------------------------------------
-        MySqlConnection bag2 = new MySqlConnection("Server=176.53.65.71;Database=bavagirc_program;Uid=bavagirc_program;Pwd=123456789a;");
+        MySqlConnection bag2 = new MySqlConnection("Server=********;Database=********;Uid=********;Pwd=********;");
         MySqlDataAdapter kurye2;
         DataSet ds2 = new DataSet();
         BindingSource bs2 = new BindingSource();
